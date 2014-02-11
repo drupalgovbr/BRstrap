@@ -1,30 +1,34 @@
-﻿# [BAStrap v0.5](http://gcba.github.com/BAstrap)
+﻿# BRStrap v0.5
 
-BAStrap es el framework del Gobierno de la Ciudad para la creación de sitios web.
-Su propósito es que el trabajo in-house y de proveedores sea consistente estética y funcionalmente.
+BRStrap é o framework da comunidade Drupal Brasil para a criação de sites/portais do Governo da Rupública Federativa do Brasil.
+Seu propósito é que o trabalho in-house e de contribuidores/fornecedores seja consistente estética e funcionalmente.
 
-BAStrap está basado en [Bootstrap v2.3.1](http://twitter.github.com/bootstrap)
+BRStrap está basado no [Bootstrap v2.3.1](http://twitter.github.com/bootstrap)
 
-Homepage: http://gcba.github.io/BAstrap/
 
-## Compilar el CSS y JavaScript
+## Compilar o CSS e JavaScript
 
-BAStrap incluye un [makefile](Makefile) para compilar el framework. Antes de empezar instalá [las dependencias locales requeridas](package.json):
+BRStrap inclui um [makefile](Makefile) para compilar o framework. Antes de começar instale [as dependências locais requeridas](package.json):
 
 ```
 $ npm install
 ```
 
-Una vez que esté instalado, vas a poder usar los comandos:
+Uma vez que estejam instaladas, você poderá usar os seguintes comandos:
 
 #### build - `make`
-Corre el compilador recess para construir los archivos `/less` y compila los docs. Requiere recess y uglify-js.
+  Execurta o compilador recess para construir os arquivos `/less` e compila os docs. Requere recess e uglify-js.
 
 #### watch - `make watch`
-Este método revisa los archivos Less y los compila automáticamente cuando los grabás. Requiere Watchr.
+Este método revisa os arquivos Less e os compila automaticamente quando são salvos. Requer Watchr.
 
 
-## Autores originales
+## Créditos
+
+Este projeto é baseado no [BAStrap](http://gcba.github.com/BAstrap)
+
+
+### Autores originais
 
 **Mark Otto**
 
@@ -36,12 +40,6 @@ Este método revisa los archivos Less y los compila automáticamente cuando los 
 + [http://twitter.com/fat](http://twitter.com/fat)
 + [http://github.com/fat](http://github.com/fat)
 
-
-## Autores del GCBA
-
-+ [Federico Abad](http://twitter.com/abad)
-+ [Julián Rodriguez](http://twitter.com/julianrod)
-+ [Teófilo Sibileau](http://twitter.com/drkloc)
 
 ## Copyright and license
 
