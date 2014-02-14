@@ -25,10 +25,17 @@ Este método revisa os arquivos Less e os compila automaticamente quando são sa
 
 ## Créditos
 
-Este projeto é baseado no [BAStrap](http://gcba.github.com/BAstrap)
+Este projeto é baseado no [BAStrap](http://gcba.github.com/BAstrap), que foi desenvolvido pelo Governo da cidade de Buenos Aires.
 
 
-### Autores originais
+### Autores do GCBA
+
++ [Federico Abad](http://twitter.com/abad)
++ [Julián Rodriguez](http://twitter.com/julianrod)
++ [Teófilo Sibileau](http://twitter.com/drkloc)
+
+
+### Autores do projeto original (Bootstrap)
 
 **Mark Otto**
 
